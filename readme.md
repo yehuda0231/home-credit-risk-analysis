@@ -1,6 +1,6 @@
 # Home Credit Risk Analysis
 
-# Project Presentation (Canva):  
+# Project Presentation
 https://www.canva.com/design/DAG_hj8gUwQ/0E3g7_XzBi_1fKdcE_r1uA/view?utm_content=DAG_hj8gUwQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he1fd4edfaf
 
 ## Project Overview
@@ -131,5 +131,6 @@ Feature importance analysis provides valuable business insights for decision-mak
 
 ## Author
 Participant of the Rakamin Academy Data Science Program in collaboration with Home Credit Indonesia
+
 
 
