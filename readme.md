@@ -1,5 +1,8 @@
 # Home Credit Risk Analysis
 
+# Project Presentation (Canva):  
+https://www.canva.com/design/DAG_hj8gUwQ/0E3g7_XzBi_1fKdcE_r1uA/view?utm_content=DAG_hj8gUwQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he1fd4edfaf
+
 ## Project Overview
 This project aims to analyze and predict customer credit default risk using machine learning techniques.  
 This project was completed as part of the Rakamin Academy Data Science Program in collaboration with Home Credit Indonesia.
@@ -128,4 +131,5 @@ Feature importance analysis provides valuable business insights for decision-mak
 
 ## Author
 Participant of the Rakamin Academy Data Science Program in collaboration with Home Credit Indonesia
+
 
