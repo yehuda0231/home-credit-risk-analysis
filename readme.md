@@ -85,9 +85,9 @@ Visualizations were created to support business interpretation.
 Random Forest feature importance was used to identify key risk drivers.
 
 Top contributing features include:
-- EXT_SOURCE_1
 - EXT_SOURCE_2
 - EXT_SOURCE_3
+- EXT_SOURCE_1
 - DAYS_BIRTH
 - DAYS_EMPLOYED
 
@@ -128,3 +128,4 @@ Feature importance analysis provides valuable business insights for decision-mak
 
 ## Author
 Participant of the Rakamin Academy Data Science Program in collaboration with Home Credit Indonesia
+
