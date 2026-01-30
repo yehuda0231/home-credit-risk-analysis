@@ -130,7 +130,8 @@ Feature importance analysis provides valuable business insights for decision-mak
 ---
 
 ## Author
-Participant of the Rakamin Academy Data Science Program in collaboration with Home Credit Indonesia
+Participant Yehuda Putra Yura of the Rakamin Academy Data Science Program in collaboration with Home Credit Indonesia
+
 
 
 
